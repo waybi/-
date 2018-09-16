@@ -4,5 +4,5 @@
 温故而知新，不去总结，知识体系永远是一盘散沙，不去刻意练习，永远无法进步
 
 ## 目录
-#### [JavaScript设计模式](docs/JavaScript.md)
+#### [JavaScript设计模式](docs/00-design.md)
 
